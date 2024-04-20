@@ -1,0 +1,1 @@
+# huggingface_image_bot
